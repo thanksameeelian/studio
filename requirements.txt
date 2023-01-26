@@ -192,7 +192,7 @@ pathlib==1.0.1
     # via -r requirements.in
 pillow==8.3.2
     # via -r requirements.in
-progressbar2==3.38.0
+progressbar2==4.2.0
     # via -r requirements.in
 prometheus-client==0.10.1
     # via django-prometheus
@@ -234,7 +234,7 @@ python-dateutil==2.8.1
     #   botocore
 python-postmark==0.5.0
     # via -r requirements.in
-python-utils==2.5.6
+python-utils==3.4.5
     # via progressbar2
 pytz==2022.1
     # via
@@ -278,10 +278,8 @@ six==1.16.0
     #   html5lib
     #   jsonschema
     #   oauth2client
-    #   progressbar2
     #   protobuf
     #   python-dateutil
-    #   python-utils
 sqlparse==0.4.1
     # via django
 uritemplate==3.0.1
